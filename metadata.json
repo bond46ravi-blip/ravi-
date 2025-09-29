@@ -1,0 +1,5 @@
+{
+  "name": "Fleurora Admin Panel",
+  "description": "A comprehensive React-based admin panel for the Fleurora flower marketplace. It allows administrators to manage products, vendors, customers, track orders, monitor deliveries, and generate sales reports.",
+  "requestFramePermissions": []
+}
